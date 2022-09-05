@@ -18,4 +18,4 @@ sudo apt update
 
 sudo apt install cloudflare-warp
 
-warp-cli register -y
+echo y | warp-cli register
